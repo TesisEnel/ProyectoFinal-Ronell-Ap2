@@ -1,3 +1,4 @@
+
 # 🛒 InventoryBR: Sistema de Inventario
 
 ![image](https://github.com/user-attachments/assets/ce446277-eb32-482c-8715-2ea6931a925c)
